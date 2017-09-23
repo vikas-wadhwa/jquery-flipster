@@ -685,7 +685,8 @@
                 play: play,
                 stop: stop,
                 pause: pause,
-                index: index
+                index: index,
+                resize: resize
             };
             self.data('methods', methods);
 
